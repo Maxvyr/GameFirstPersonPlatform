@@ -7,9 +7,17 @@ Made for fun =)
 
 * [Download The Game](https://gumroad.com/l/MdFX)
 
+# My apps on Store
+
+<a href="https://play.google.com/store/apps/developer?id=Pandamy" target="_blank"><img src="https://i.imgur.com/YetVBL1.png" alt="Get in on PlayStore" style="height: 25px; width: 50px;" ></a>
+
+contact : pandamydev@gmail.com 
+
+# Tips
+
 * [Donation](https://ko-fi.com/maxvyr)
 
+# Crypto Tips 
 
-<a href="https://www.buymeacoffee.com/Maxvy" target="_blank"><img src="https://i.imgur.com/CNigpZm.png" alt="A Little Coffee Please" style="height: 25px;width: 50px;" ></a>
 
-contact : pandamydev@gmail.com
+![ETH_QR_Code](https://i.imgur.com/XpF2vgw.png)
